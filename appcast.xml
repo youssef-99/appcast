@@ -10,10 +10,10 @@
         </item>
       
         <item>
-            <title>Version 1.7</title>
+            <title>Version 1.0.8</title>
             <description>IOS Update</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/otloha-sah/id6443568371" sparkle:version="1.7" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/otloha-sah/id6443568371" sparkle:version="1.0.8" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
